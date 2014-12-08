@@ -2,7 +2,13 @@
 	"javatar_gp": 0,
 	"jdk_version":
 	{
-		"use": ""
+		"JDK1.8.0u25":
+		{
+			"path": "C:\\Program Files\\Java\\jdk1.8.0_25\\bin",
+			"update": "25",
+			"version": "1.8.0"
+		},
+		"use": "JDK1.8.0u25"
 	},
 	"message_id": 19,
 	"project_data":
