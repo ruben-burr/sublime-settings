@@ -7,5 +7,11 @@
 		"SideBarFolders",
 		"SideBarGit",
 		"Sublimerge Pro"
+		"Git",
+		"GitGutter",
+		"Gradle_Language",
+		"Javatar",
+		"LineEndings",
+		"Terminal"
 	]
 }
