@@ -1,17 +1,17 @@
 {
 	"installed_packages":
 	[
-		"Highlight",
-		"Indent XML",
-		"SideBarEnhancements",
-		"SideBarFolders",
-		"SideBarGit",
-		"Sublimerge Pro"
 		"Git",
 		"GitGutter",
 		"Gradle_Language",
+		"Highlight",
+		"Indent XML",
 		"Javatar",
 		"LineEndings",
+		"SideBarEnhancements",
+		"SideBarFolders",
+		"SideBarGit",
+		"Sublimerge Pro",
 		"Terminal"
 	]
 }
