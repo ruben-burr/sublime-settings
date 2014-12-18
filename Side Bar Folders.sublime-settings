@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/home/retacc/dev/src/retacc/sbb-duf-rd"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/retacc/dev"
+		}
+	]
+}

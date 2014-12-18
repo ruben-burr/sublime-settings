@@ -13,6 +13,19 @@
 	"message_id": 19,
 	"project_data":
 	{
-		"2": null
+		"2":
+		{
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/home/retacc/dev"
+				},
+				{
+					"follow_symlinks": true,
+					"path": "/home/retacc/dev/src/retacc/sbb-duf-rd"
+				}
+			]
+		}
 	}
 }
