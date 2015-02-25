@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Git",
@@ -9,10 +12,13 @@
 		"Indent XML",
 		"Javatar",
 		"LineEndings",
+		"Package Control",
 		"PlainTasks",
 		"SideBarEnhancements",
 		"SideBarFolders",
 		"SideBarGit",
+		"SublimeLinter",
+		"SublimeLinter-xmllint",
 		"Sublimerge Pro",
 		"Terminal"
 	]

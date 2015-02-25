@@ -7,6 +7,14 @@
 		},
 		{
 			"follow_symlinks": true,
+			"path": "/home/retacc/dev/src/retacc/core-release/retacc.core.release.xml"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/home/retacc/dev/releases/retacc.sbb.ri.erepko.release/retacc.sbb.ri.erepko.test.du/app/distribute/test"
+		},
+		{
+			"follow_symlinks": true,
 			"path": "/home/retacc/dev"
 		}
 	]
