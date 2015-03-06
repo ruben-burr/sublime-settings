@@ -26,5 +26,6 @@
 	{ "keys": ["shift+ctrl+x"], "command": "upper_case" },
 	{ "keys": ["shift+alt+r"], "command": "find_all_under" },
 	{ "keys": ["ctrl+super+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-	{ "keys": ["f5"], "command": "revert" }
+	{ "keys": ["f5"], "command": "revert" },
+	{ "keys": ["alt+d"], "command": "plain_tasks_complete","context": [{ "key": "selector", "operator": "equal", "operand": "text.todo" }] }
 ]
