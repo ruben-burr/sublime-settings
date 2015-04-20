@@ -2,24 +2,17 @@
 	"javatar_gp": 0,
 	"jdk_version":
 	{
-		"use": ""
+		"JDK1.8.0u25":
+		{
+			"path": "C:\\Program Files\\Java\\jdk1.8.0_25\\bin",
+			"update": "25",
+			"version": "1.8.0"
+		},
+		"use": "JDK1.8.0u25"
 	},
 	"message_id": 20,
 	"project_data":
 	{
-		"2":
-		{
-			"folders":
-			[
-				{
-					"follow_symlinks": true,
-					"path": "/home/retacc/dev"
-				},
-				{
-					"follow_symlinks": true,
-					"path": "/home/retacc/dev/src/retacc/sbb-duf-rd"
-				}
-			]
-		}
+		"2": null
 	}
 }

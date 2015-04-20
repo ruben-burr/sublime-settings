@@ -13,7 +13,10 @@
 		"Indent XML",
 		"Javatar",
 		"LineEndings",
+<<<<<<< HEAD
+=======
 		"MarkdownEditing",
+>>>>>>> added some plugins, changed color theme
 		"Package Control",
 		"PlainTasks",
 		"SideBarEnhancements",

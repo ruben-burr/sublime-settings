@@ -1,9 +1,11 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Hammer.tmTheme",
 	"draw_minimap_border": true,
-	"font_size": 8,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Markdown",
+		"Vintage",
+		"Javatar"
 	]
 }

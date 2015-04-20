@@ -1,0 +1,17 @@
+{
+<<<<<<< HEAD
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"draw_minimap_border": true,
+	"font_size": 8,
+=======
+	"color_scheme": "Packages/Colorsublime - Themes/Hammer.tmTheme",
+	"draw_minimap_border": true,
+	"font_size": 13,
+>>>>>>> added some plugins, changed color theme
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage",
+		"Javatar"
+	]
+}
