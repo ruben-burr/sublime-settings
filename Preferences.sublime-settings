@@ -1,7 +1,8 @@
 {
-	"color_scheme": "Packages/Colorsublime - Themes/Hammer.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Hammer (SL).tmTheme",
 	"draw_minimap_border": true,
-	"font_size": 10,
+	"font_size": 11,
+	"highlight_line": false,
 	"ignored_packages":
 	[
 		"Markdown",
